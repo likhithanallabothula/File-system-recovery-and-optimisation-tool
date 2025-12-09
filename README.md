@@ -123,4 +123,4 @@ Your tool generates:
 
 ---
 
-## 📂 Folder Structure
+http://127.0.0.1:3000/code.html?serverWindowId=6f06fefa-ff28-4f99-a7b7-551cf07a09e4
